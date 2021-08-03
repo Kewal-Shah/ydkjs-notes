@@ -1,0 +1,1 @@
+1. JS engine doesn't generally determine scope of a variable during runtimr. During compilation, most or all variables references are assigned their scope to avoid unnecessary lookup as the program runs.
