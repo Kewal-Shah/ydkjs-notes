@@ -12,3 +12,6 @@ In the above example, JS engine coerces false as '0' and true as '1' before comp
 	1 === true	// Output: false
 
 No coercion is being performed before comparison.	 
+
+
+https://github.com/Kewal-Shah/node-notes-app/blob/6617e7ea389e1a0a99813ae91b15d02e3fad302f/notes.js#L6
